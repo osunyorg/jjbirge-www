@@ -22,4 +22,9 @@ items:
   children: []
   path: "/pages/bio"
   file: content/fr/pages/bio/_index.html
+- title: Contact
+  target: mailto:info@drame.org
+  kind: url
+  new_tab: false
+  children: []
 
