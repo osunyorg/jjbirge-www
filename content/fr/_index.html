@@ -8,7 +8,7 @@ bodyclass: >-
 url: "/"
 slug: ""
 date: 2025-04-16T10:22:30+02:00
-lastmod: 2025-04-16T10:22:30+02:00
+lastmod: 2025-07-24T12:04:56+02:00
 meta:
   hugo:
     permalink: "/"
@@ -17,10 +17,11 @@ meta:
     slug: ""
   dates:
     created_at: 2025-04-16T10:22:30+02:00
-    updated_at: 2025-04-16T10:22:30+02:00
+    updated_at: 2025-07-24T12:04:56+02:00
     published_at: 2025-04-16T10:22:30+02:00
 search:
   id: "5e5ca9da-4570-436a-9526-6758e1f2b16c"
+  about_id: "8cb6a5d0-b1ec-44ea-baff-3f4613984a2c"
   url: "/"
   kind: "Communication::Website::Page::Localization"
   lang: "fr"
@@ -29,7 +30,7 @@ search:
   summary: >-
     
   body: >-
-    
+    <p>Radio Drame </p>  <p> Les dernières actualités </p>  <p> Les derniers albums </p>  <p> Soutenir cette œuvre  <br>Les créations partagées ici existent grâce à votre précieux soutien.</p>  <p>logo paypal</p>  <p>Faire un don <br>https://www.paypal.com/donate?token=wy2Y_cPOXrWfldHrq6ATlhxA37gh2nKuQ6DRKK8kqHEd1b4N-DBzkK-5VbK15pwNaMIlnOVJD-0Vdqod</p>
 
 breadcrumbs:
   - title: >-
@@ -41,6 +42,8 @@ design:
     present: false
     offcanvas: true
 
+
+
 position: 1
 weight: 1
 
@@ -49,9 +52,10 @@ translationKey: communication-website-page-8cb6a5d0-b1ec-44ea-baff-3f4613984a2c
 
 
 children:
-  - "organizations/_index.html"
   - "posts/_index.html"
-  - "persons/_index.html"
+  - "projects/_index.html"
+  - "pages/presse/_index.html"
+  - "pages/bio/_index.html"
 meta_description: >-
   
 
@@ -68,9 +72,157 @@ header_cta:
   external: false
 
 contents_reading_time:
-  seconds: 0
+  seconds: 10
   text: >-
     moins d'une minute
 contents:
+  - kind: block
+    template: embed
+    title: >-
+      Radio Drame
+    slug: >-
+      radio-drame
+    ranks:
+      base: 2
+      self: 2
+    top:
+      active: true
+      title: 
+        value: >-
+          Radio Drame
+        heading: 2
+    data:
+      code: >-
+        <iframe src="http://drame.org/2/playerRadioDrame.php" title="Radio Drame" loading="lazy"></iframe>
+
+      transcription_title: >-
+        
+
+      transcription: >-
+        
+
+
+
+  - kind: block
+    template: posts
+    title: >-
+      Les dernières actualités
+    slug: >-
+      les-dernieres-actualites
+    ranks:
+      base: 2
+      self: 2
+      children: 3
+    top:
+      active: true
+      title: 
+        value: >-
+          Les dernières actualités
+        heading: 2
+        link: "/actualites/"
+    data:
+      mode: all
+      all: true
+      layout: carousel
+      options:
+        author: false
+        categories: false
+        date: false
+        image: true
+        reading_time: false
+        subtitle: true
+        summary: true
+
+      posts:
+        - permalink: "/actualites/2025-07-23-cd-pique-nique-au-labo-vol4/"
+          path: "/posts/2025/2025-07-23-cd-pique-nique-au-labo-vol4"
+          slug: "cd-pique-nique-au-labo-vol4"
+          file: "content/fr/posts/2025/2025-07-23-cd-pique-nique-au-labo-vol4.html"
+          name: >-
+            CD Pique-nique au labo, vol.4
+
+      quantity: 1
+
+
+  - kind: block
+    template: projects
+    title: >-
+      Les derniers albums
+    slug: >-
+      les-derniers-albums
+    ranks:
+      base: 2
+      self: 2
+      children: 3
+    top:
+      active: true
+      title: 
+        value: >-
+          Les derniers albums
+        heading: 2
+        link: "/musique/albums/"
+    data:
+      mode: category
+      category: "albums"
+      layout: alternate
+      options:
+        categories: true
+        image: true
+        subtitle: true
+        summary: false
+        year: true
+
+      projects:
+        - permalink: "/musique/2025-pique-nique-au-labo-4/"
+          path: "/projects/2025-pique-nique-au-labo-4"
+          slug: "pique-nique-au-labo-4"
+          file: "content/fr/projects/2025-pique-nique-au-labo-4.html"
+          name: >-
+            Pique nique au Labo 4
+
+      quantity: 1
+
+  - kind: block
+    template: call_to_action
+    title: >-
+      Soutenir cette œuvre
+    slug: >-
+      soutenir-cette-oeuvre
+    ranks:
+      base: 2
+      self: 2
+    top:
+      active: true
+      title: 
+        value: >-
+          Soutenir cette œuvre
+        heading: 2
+      description: >-
+        <p>Les créations partagées ici existent grâce à votre précieux soutien.</p>
+    data:
+      layout: no_background
+      text: >-
+        <p>Les créations partagées ici existent grâce à votre précieux soutien.</p>
+
+      image:
+        id: "ba1f4a07-73eb-452b-9202-7c41f62051e0"
+        file: "ba1f4a07-73eb-452b-9202-7c41f62051e0"
+
+      alt: >-
+        logo paypal
+
+      credit: >-
+        
+
+      buttons:
+        - title: >-
+            Faire un don
+
+          url: >-
+            https://www.paypal.com/donate?token=wy2Y_cPOXrWfldHrq6ATlhxA37gh2nKuQ6DRKK8kqHEd1b4N-DBzkK-5VbK15pwNaMIlnOVJD-0Vdqod
+
+          target_blank: true
+
+
 
 ---
