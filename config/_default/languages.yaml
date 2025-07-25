@@ -9,6 +9,28 @@ fr:
   buildFuture: true
   params:
     contact_details:
+      emails:
+        email:
+          label: >-
+            info@drame.org
+          value: >-
+            mailto:info@drame.org
+      social_networks:
+        facebook:
+          label: >-
+            jjbirge
+          value: >-
+            https://www.facebook.com/jjbirge
+        vimeo:
+          label: >-
+            jjbirge
+          value: >-
+            https://vimeo.com/jjbirge
+        youtube:
+          label: >-
+            androctonus7
+          value: >-
+            https://www.youtube.com/@androctonus7
 
   taxonomies:
     administrator: administrators
