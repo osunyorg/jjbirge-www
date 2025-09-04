@@ -2,28 +2,28 @@
 title: Menu principal
 items:
 - title: Actualités
-  target: "/actualites/"
+  target: "/fr/actualites/"
   kind: page
   new_tab: false
   children: []
   path: "/posts"
   file: content/fr/posts/_index.html
 - title: Presse
-  target: "/presse/"
+  target: "/fr/presse/"
   kind: page
   new_tab: false
   children: []
   path: "/pages/presse"
   file: content/fr/pages/presse/_index.html
 - title: Musique
-  target: "/musique/"
+  target: "/fr/musique/"
   kind: page
   new_tab: false
   children: []
   path: "/projects"
   file: content/fr/projects/_index.html
 - title: Bio
-  target: "/bio/"
+  target: "/fr/bio/"
   kind: page
   new_tab: false
   children: []
