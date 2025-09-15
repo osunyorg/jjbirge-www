@@ -1,0 +1,11 @@
+---
+title: Menu principal
+items:
+- title: LP / CD
+  target: "/en/music/"
+  kind: page
+  new_tab: false
+  children: []
+  path: "/projects"
+  file: content/en/projects/_index.html
+
