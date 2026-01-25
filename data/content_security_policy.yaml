@@ -9,4 +9,3 @@ allowed_domains:
   - "player.vimeo.com"
   - "vumbnail.com"
   - "jjbirge-sonotheque.sachaandre.com"
-  - "localhost"
