@@ -8,4 +8,18 @@ items:
   children: []
   path: "/projects"
   file: content/en/projects/_index.html
+- title: Press
+  target: "/en/presse/"
+  kind: page
+  new_tab: false
+  children: []
+  path: "/pages/presse"
+  file: content/en/pages/presse/_index.html
+- title: News
+  target: "/en/posts/"
+  kind: page
+  new_tab: false
+  children: []
+  path: "/posts"
+  file: content/en/posts/_index.html
 
