@@ -2,31 +2,39 @@
 title: Menu principal
 items:
 - title: LP / CD
+  slug: lp-cd
   target: "/en/music/"
   kind: page
   new_tab: false
   children: []
+  descendants_targets: []
   path: "/projects"
   file: content/en/projects/_index.html
 - title: Bio
+  slug: bio
   target: "/en/bio/"
   kind: page
   new_tab: false
   children: []
+  descendants_targets: []
   path: "/pages/bio"
   file: content/en/pages/bio/_index.html
 - title: Press
+  slug: press
   target: "/en/presse/"
   kind: page
   new_tab: false
   children: []
+  descendants_targets: []
   path: "/pages/presse"
   file: content/en/pages/presse/_index.html
 - title: News
+  slug: news
   target: "/en/posts/"
   kind: page
   new_tab: false
   children: []
+  descendants_targets: []
   path: "/posts"
   file: content/en/posts/_index.html
 

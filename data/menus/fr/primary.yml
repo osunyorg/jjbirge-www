@@ -2,36 +2,46 @@
 title: Menu principal
 items:
 - title: Actualités
+  slug: actualites
   target: "/fr/actualites/"
   kind: page
   new_tab: false
   children: []
+  descendants_targets: []
   path: "/posts"
   file: content/fr/posts/_index.html
 - title: Presse
+  slug: presse
   target: "/fr/presse/"
   kind: page
   new_tab: false
   children: []
+  descendants_targets: []
   path: "/pages/presse"
   file: content/fr/pages/presse/_index.html
 - title: Musique
+  slug: musique
   target: "/fr/musique/"
   kind: page
   new_tab: false
   children: []
+  descendants_targets: []
   path: "/projects"
   file: content/fr/projects/_index.html
 - title: Bio
+  slug: bio
   target: "/fr/bio/"
   kind: page
   new_tab: false
   children: []
+  descendants_targets: []
   path: "/pages/bio"
   file: content/fr/pages/bio/_index.html
 - title: Contact
+  slug: contact
   target: mailto:info@drame.org
   kind: url
   new_tab: false
   children: []
+  descendants_targets: []
 
