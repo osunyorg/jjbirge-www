@@ -1,8 +1,8 @@
 ---
 title: Menu principal
 items:
-- title: Actualités
-  slug: actualites
+- title: Nouvelles du front
+  slug: nouvelles-du-front
   target: "/fr/actualites/"
   kind: page
   new_tab: false
