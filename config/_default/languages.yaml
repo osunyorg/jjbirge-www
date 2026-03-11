@@ -69,6 +69,21 @@ fr:
             jjbirge
           value: >-
             https://www.facebook.com/jjbirge
+        instagram:
+          label: >-
+            jjbirge?hl=fr
+          value: >-
+            https://instagram.com/jjbirge?hl=fr
+        linkedin:
+          label: >-
+            jjbirge
+          value: >-
+            https://www.linkedin.com/in/jjbirge/
+        mastodon:
+          label: >-
+            mastodon.social/@jeanjacquesbirge
+          value: >-
+            https://mastodon.social/@jeanjacquesbirge
         vimeo:
           label: >-
             jjbirge
