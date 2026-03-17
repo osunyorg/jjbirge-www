@@ -10,6 +10,24 @@ items:
   descendants_targets: []
   path: "/posts"
   file: content/fr/posts/_index.html
+- title: Albums virtuels
+  slug: albums-virtuels
+  target: "/fr/musique/albums-virtuels/"
+  kind: page
+  new_tab: false
+  children: []
+  descendants_targets: []
+  path: "/pages/musique/albums-virtuels"
+  file: content/fr/pages/musique/albums-virtuels/_index.html
+- title: Disques
+  slug: disques
+  target: "/fr/musique/disques/"
+  kind: page
+  new_tab: false
+  children: []
+  descendants_targets: []
+  path: "/pages/musique/disques"
+  file: content/fr/pages/musique/disques/_index.html
 - title: Presse
   slug: presse
   target: "/fr/presse/"
@@ -35,13 +53,4 @@ items:
   new_tab: false
   children: []
   descendants_targets: []
-- title: Albums virtuels
-  slug: albums-virtuels
-  target: "/fr/musique/albums-virtuels/"
-  kind: page
-  new_tab: false
-  children: []
-  descendants_targets: []
-  path: "/pages/musique/albums-virtuels"
-  file: content/fr/pages/musique/albums-virtuels/_index.html
 
