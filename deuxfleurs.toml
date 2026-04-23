@@ -13,3 +13,408 @@ Cache-Control = "max-age=31536000, no-transform, public"
 for = ["**/*.png", "**/*.jpg", "**/*.jpeg", "**/*.gif", "**/*.webp"]
 [headers.values]
 Cache-Control = "max-age=31536000, no-transform, public"
+
+[[redirects]]
+from = "/equipe/sonia-cruchon/"
+to = "/fr/equipe/sonia-cruchon/"
+
+[[redirects]]
+from = "/organisations/"
+to = "/fr/organisations/"
+
+[[redirects]]
+from = "/equipe/franpi/"
+to = "/fr/equipe/franpi/"
+
+[[redirects]]
+from = "/fr/spatsonore/"
+to = "/fr/organisations/spatsonore/"
+
+[[redirects]]
+from = "/fr/sota-salta/"
+to = "/fr/organisations/sota-salta/"
+
+[[redirects]]
+from = "/equipe/antoine-schmitt/"
+to = "/fr/equipe/antoine-schmitt/"
+
+[[redirects]]
+from = "/equipe/elsa-birge/"
+to = "/fr/equipe/elsa-birge/"
+
+[[redirects]]
+from = "/actualites/"
+to = "/fr/actualites/"
+
+[[redirects]]
+from = "/organisations/categories/collectifs-et-groupes-amis/"
+to = "/fr/organisations/categories/collectifs-et-groupes-amis/"
+
+[[redirects]]
+from = "/equipe/anne-sarah-le-meur/"
+to = "/fr/equipe/anne-sarah-le-meur/"
+
+[[redirects]]
+from = "/musique/albums/"
+to = "/fr/musique/disques/"
+
+[[redirects]]
+from = "/organisations/odeia/"
+to = "/fr/organisations/odeia/"
+
+[[redirects]]
+from = "/fr/anne-sarah-le-meur/"
+to = "/fr/equipe/anne-sarah-le-meur/"
+
+[[redirects]]
+from = "/fr/marie-laure-buisson/"
+to = "/fr/equipe/marie-laure-buisson/"
+
+[[redirects]]
+from = "/fr/jean-jacques-palix/"
+to = "/fr/equipe/jean-jacques-palix/"
+
+[[redirects]]
+from = "/fr/actualites/2026-01-27-cd-pique-nique-au-labo-vol4-1/"
+to = "/fr/actualites/2025-04-30-cd-pique-nique-au-labo-vol4-1/"
+
+[[redirects]]
+from = "/fr/musique/2025-catalogue-complet-3/"
+to = "/fr/musique/1954-catalogue-complet-3/"
+
+[[redirects]]
+from = "/organisations/flying-puppets/"
+to = "/fr/organisations/flying-puppets/"
+
+[[redirects]]
+from = "/equipe/equipe-editoriale/"
+to = "/fr/equipe/equipe-editoriale/"
+
+[[redirects]]
+from = "/fr/antoine-schmitt/"
+to = "/fr/equipe/antoine-schmitt/"
+
+[[redirects]]
+from = "/fr/equipe/jean-jacques-birge/"
+to = "/fr/jean-jacques-birge/"
+
+[[redirects]]
+from = "/fr/organisations/les-alumes-du-jazz/"
+to = "/fr/organisations/les-allumes-du-jazz/"
+
+[[redirects]]
+from = "/en/music/records/free-mp3/"
+to = "/en/music/free-mp3/"
+
+[[redirects]]
+from = "/fr/musique/albums/"
+to = "/fr/musique/disques/"
+
+[[redirects]]
+from = "/musique/"
+to = "/fr/musique/"
+
+[[redirects]]
+from = "/organisations/souffle-continu/"
+to = "/fr/organisations/souffle-continu/"
+
+[[redirects]]
+from = "/fr/les-allumes-du-jazz/"
+to = "/fr/organisations/les-allumes-du-jazz/"
+
+[[redirects]]
+from = "/en/posts/2026-01-27-cd-pique-nique-au-labo-vol4-1/"
+to = "/en/posts/2025-04-30-cd-pique-nique-au-labo-vol4-1/"
+
+[[redirects]]
+from = "/organisations/nabazmob/"
+to = "/fr/organisations/nabazmob/"
+
+[[redirects]]
+from = "/fr/etienne-mineur/"
+to = "/fr/equipe/etienne-mineur/"
+
+[[redirects]]
+from = "/fr/categories/projets-et-collections-artistiques/"
+to = "/fr/organisations/categories/projets-et-collections-artistiques/"
+
+[[redirects]]
+from = "/organisations/assez-vus/"
+to = "/fr/organisations/assez-vus/"
+
+[[redirects]]
+from = "/fr/sonia-cruchon/"
+to = "/fr/equipe/sonia-cruchon/"
+
+[[redirects]]
+from = "/fr/sacha-gattino/"
+to = "/fr/equipe/sacha-gattino/"
+
+[[redirects]]
+from = "/equipe/jacques-perconte/"
+to = "/fr/equipe/jacques-perconte/"
+
+[[redirects]]
+from = "/fr/jacques-perconte/"
+to = "/fr/equipe/jacques-perconte/"
+
+[[redirects]]
+from = "/equipe/nicolas-clauss/"
+to = "/fr/equipe/nicolas-clauss/"
+
+[[redirects]]
+from = "/equipe/jean-jacques-palix/"
+to = "/fr/equipe/jean-jacques-palix/"
+
+[[redirects]]
+from = "/en/editors/"
+to = "/en/team/editors/"
+
+[[redirects]]
+from = "/fr/disques/"
+to = "/fr/musique/disques/"
+
+[[redirects]]
+from = "/organisations/les-inediteurs/"
+to = "/fr/organisations/les-inediteurs/"
+
+[[redirects]]
+from = "/organisations/categories/projets-et-collections-artistiques/"
+to = "/fr/organisations/categories/projets-et-collections-artistiques/"
+
+[[redirects]]
+from = "/fr/creations-et-liberte/"
+to = "/fr/organisations/creations-et-liberte/"
+
+[[redirects]]
+from = "/fr/volumique/"
+to = "/fr/organisations/volumique/"
+
+[[redirects]]
+from = "/fr/assez-vus/"
+to = "/fr/organisations/assez-vus/"
+
+[[redirects]]
+from = "/bio/"
+to = "/fr/bio/"
+
+[[redirects]]
+from = "/equipe/francoise-romand/"
+to = "/fr/equipe/francoise-romand/"
+
+[[redirects]]
+from = "/fr/musique/disques/titres-gratuits/"
+to = "/fr/musique/albums-virtuels/"
+
+[[redirects]]
+from = "/en/music/titres-gratuits/"
+to = "/en/music/free-mp3/"
+
+[[redirects]]
+from = "/fr/flying-puppets/"
+to = "/fr/organisations/flying-puppets/"
+
+[[redirects]]
+from = "/organisations/creations-et-liberte/"
+to = "/fr/organisations/creations-et-liberte/"
+
+[[redirects]]
+from = "/en/music/1954-catalogue-2025/"
+to = "/en/music/2025-catalogue-2025/"
+
+[[redirects]]
+from = "/fr/presse/gallerie-photo/"
+to = "/fr/presse/galerie-photo/"
+
+[[redirects]]
+from = "/fr/souffle-continu/"
+to = "/fr/organisations/souffle-continu/"
+
+[[redirects]]
+from = "/organisations/machiavel/"
+to = "/fr/organisations/machiavel/"
+
+[[redirects]]
+from = "/fr/jeanne-puchol/"
+to = "/fr/equipe/jeanne-puchol/"
+
+[[redirects]]
+from = "/en/projects/records/"
+to = "/en/music/records/"
+
+[[redirects]]
+from = "/organisations/volumique/"
+to = "/fr/organisations/volumique/"
+
+[[redirects]]
+from = "/fr/elsa-birge/"
+to = "/fr/equipe/elsa-birge/"
+
+[[redirects]]
+from = "/fr/philippe-langlois/"
+to = "/fr/equipe/philippe-langlois/"
+
+[[redirects]]
+from = "/equipe/marie-laure-buisson/"
+to = "/fr/equipe/marie-laure-buisson/"
+
+[[redirects]]
+from = "/equipe/philippe-langlois/"
+to = "/fr/equipe/philippe-langlois/"
+
+[[redirects]]
+from = "/mentions-legales/"
+to = "/fr/mentions-legales/"
+
+[[redirects]]
+from = "/fr/les-alumes-du-jazz/"
+to = "/fr/organisations/les-allumes-du-jazz/"
+
+[[redirects]]
+from = "/fr/les-inediteurs/"
+to = "/fr/organisations/les-inediteurs/"
+
+[[redirects]]
+from = "/fr/odeia/"
+to = "/fr/organisations/odeia/"
+
+[[redirects]]
+from = "/fr/categories/collectifs-et-groupes-amis/"
+to = "/fr/organisations/categories/collectifs-et-groupes-amis/"
+
+[[redirects]]
+from = "/fr/jonathan-rosenbaum/"
+to = "/fr/equipe/jonathan-rosenbaum/"
+
+[[redirects]]
+from = "/musique/titres-gratuits/"
+to = "/fr/musique/albums-virtuels/"
+
+[[redirects]]
+from = "/en/projects/disques/"
+to = "/en/music/records/"
+
+[[redirects]]
+from = "/fr/categories/ami-e-s/"
+to = "/fr/equipe/categories/ami-e-s/"
+
+[[redirects]]
+from = "/fr/musique/titres-gratuits/"
+to = "/fr/musique/albums-virtuels/"
+
+[[redirects]]
+from = "/equipe/"
+to = "/fr/equipe/"
+
+[[redirects]]
+from = "/fr/actualites/2026-01-27-le-violon-dingue-de-fabiana-striffler/"
+to = "/fr/actualites/2025-03-30-le-violon-dingue-de-fabiana-striffler/"
+
+[[redirects]]
+from = "/organisations/spatsonore/"
+to = "/fr/organisations/spatsonore/"
+
+[[redirects]]
+from = "/fr/machiavel/"
+to = "/fr/organisations/machiavel/"
+
+[[redirects]]
+from = "/organisations/sota-salta/"
+to = "/fr/organisations/sota-salta/"
+
+[[redirects]]
+from = "/fr/francoise-romand/"
+to = "/fr/equipe/francoise-romand/"
+
+[[redirects]]
+from = "/en/posts/2026-01-27-le-violon-dingue-de-fabiana-striffler/"
+to = "/en/posts/2025-03-30-le-violon-dingue-de-fabiana-striffler/"
+
+[[redirects]]
+from = "/politique-de-confidentialite/"
+to = "/fr/politique-de-confidentialite/"
+
+[[redirects]]
+from = "/equipe/sacha-gattino/"
+to = "/fr/equipe/sacha-gattino/"
+
+[[redirects]]
+from = "/en/music/2025-complete-catalogue-3/"
+to = "/en/music/1954-complete-catalogue-3/"
+
+[[redirects]]
+from = "/accessibilite/"
+to = "/fr/accessibilite/"
+
+[[redirects]]
+from = "/organisations/citizen-jazz/"
+to = "/fr/organisations/citizen-jazz/"
+
+[[redirects]]
+from = "/equipe/jeanne-puchol/"
+to = "/fr/equipe/jeanne-puchol/"
+
+[[redirects]]
+from = "/equipe/etienne-mineur/"
+to = "/fr/equipe/etienne-mineur/"
+
+[[redirects]]
+from = "/fr/nicolas-clauss/"
+to = "/fr/equipe/nicolas-clauss/"
+
+[[redirects]]
+from = "/equipe/jonathan-rosenbaum/"
+to = "/fr/equipe/jonathan-rosenbaum/"
+
+[[redirects]]
+from = "/en/projects/"
+to = "/en/music/"
+
+[[redirects]]
+from = "/fr/nabazmob/"
+to = "/fr/organisations/nabazmob/"
+
+[[redirects]]
+from = "/en/posts/2026-01-27-2-video-clips-for-2-new-cd/"
+to = "/en/posts/2025-05-30-2-video-clips-for-2-new-cd/"
+
+[[redirects]]
+from = "/presse/"
+to = "/fr/presse/"
+
+[[redirects]]
+from = "/fr/poptronics/"
+to = "/fr/organisations/poptronics/"
+
+[[redirects]]
+from = "/organisations/poptronics/"
+to = "/fr/organisations/poptronics/"
+
+[[redirects]]
+from = "/equipe/categories/ami-e-s/"
+to = "/fr/equipe/categories/ami-e-s/"
+
+[[redirects]]
+from = "/projets/"
+to = "/fr/musique/"
+
+[[redirects]]
+from = "/fr/musique/1954-catalogue-2025/"
+to = "/fr/musique/2025-catalogue-2025/"
+
+[[redirects]]
+from = "/fr/actualites/2026-01-27-2-clips-pour-2-nouveauts/"
+to = "/fr/actualites/2025-05-30-2-clips-pour-2-nouveauts/"
+
+[[redirects]]
+from = "/plan-du-site/"
+to = "/fr/plan-du-site/"
+
+[[redirects]]
+from = "/fr/franpi/"
+to = "/fr/equipe/franpi/"
+
+[[redirects]]
+from = "/organisations/les-alumes-du-jazz/"
+to = "/fr/organisations/les-allumes-du-jazz/"
+
