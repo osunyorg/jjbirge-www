@@ -53,4 +53,11 @@ items:
   new_tab: false
   children: []
   descendants_targets: []
+- title: Le blog
+  slug: le-blog
+  target: https://blog.drame.org
+  kind: url
+  new_tab: true
+  children: []
+  descendants_targets: []
 
