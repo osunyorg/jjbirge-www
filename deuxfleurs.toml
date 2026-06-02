@@ -95,10 +95,6 @@ from = "/fr/antoine-schmitt/index.html"
 to = "/fr/equipe/antoine-schmitt/"
 
 [[redirects]]
-from = "/fr/equipe/jean-jacques-birge/index.html"
-to = "/fr/jean-jacques-birge/"
-
-[[redirects]]
 from = "/fr/organisations/les-alumes-du-jazz/index.html"
 to = "/fr/organisations/les-allumes-du-jazz/"
 
@@ -257,6 +253,10 @@ to = "/fr/equipe/philippe-langlois/"
 [[redirects]]
 from = "/equipe/marie-laure-buisson/index.html"
 to = "/fr/equipe/marie-laure-buisson/"
+
+[[redirects]]
+from = "/fr/jean-jacques-birge/index.html"
+to = "/fr/equipe/jean-jacques-birge/"
 
 [[redirects]]
 from = "/equipe/philippe-langlois/index.html"
