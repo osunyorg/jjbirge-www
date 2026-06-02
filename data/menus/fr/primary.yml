@@ -48,7 +48,7 @@ items:
   file: content/fr/pages/bio/_index.html
 - title: Contact
   slug: contact
-  target: mailto:info@drame.org
+  target: mailto:jjbirge@drame.org
   kind: url
   new_tab: false
   children: []
