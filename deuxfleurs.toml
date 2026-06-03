@@ -31,10 +31,6 @@ from = "/fr/spatsonore/index.html"
 to = "/fr/organisations/spatsonore/"
 
 [[redirects]]
-from = "/fr/sota-salta/index.html"
-to = "/fr/organisations/sota-salta/"
-
-[[redirects]]
 from = "/equipe/antoine-schmitt/index.html"
 to = "/fr/equipe/antoine-schmitt/"
 
@@ -325,10 +321,6 @@ to = "/fr/organisations/spatsonore/"
 [[redirects]]
 from = "/fr/machiavel/index.html"
 to = "/fr/organisations/machiavel/"
-
-[[redirects]]
-from = "/organisations/sota-salta/index.html"
-to = "/fr/organisations/sota-salta/"
 
 [[redirects]]
 from = "/fr/francoise-romand/index.html"
