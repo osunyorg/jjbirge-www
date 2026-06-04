@@ -63,10 +63,6 @@ from = "/fr/anne-sarah-le-meur/index.html"
 to = "/fr/equipe/anne-sarah-le-meur/"
 
 [[redirects]]
-from = "/fr/marie-laure-buisson/index.html"
-to = "/fr/equipe/marie-laure-buisson/"
-
-[[redirects]]
 from = "/fr/jean-jacques-palix/index.html"
 to = "/fr/equipe/jean-jacques-palix/"
 
@@ -249,10 +245,6 @@ to = "/fr/equipe/elsa-birge/"
 [[redirects]]
 from = "/fr/philippe-langlois/index.html"
 to = "/fr/equipe/philippe-langlois/"
-
-[[redirects]]
-from = "/equipe/marie-laure-buisson/index.html"
-to = "/fr/equipe/marie-laure-buisson/"
 
 [[redirects]]
 from = "/fr/jean-jacques-birge/index.html"
