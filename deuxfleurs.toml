@@ -367,6 +367,10 @@ from = "/fr/nabazmob/index.html"
 to = "/fr/organisations/nabazmob/"
 
 [[redirects]]
+from = "/fr/organisations/les-indediteurs/index.html"
+to = "/fr/organisations/usa-1968/"
+
+[[redirects]]
 from = "/en/posts/2026-01-27-2-video-clips-for-2-new-cd/index.html"
 to = "/en/posts/2025-05-30-2-video-clips-for-2-new-cd/"
 
