@@ -7,3 +7,15 @@
 
 article.person .avatar
     min-width: 10rem
+
+body.full-width .block-links--grid ul, body.full-width .block-links--cards ul, main > .blocks .block-links--grid ul, main > .blocks .block-links--cards ul, .contents-full-width .block-links--grid ul, .contents-full-width .block-links--cards ul
+    grid-gap: 1rem
+
+.block-links--cards li
+    .link-content
+        min-height: 0
+        padding: 1rem
+    
+    a[target="_blank"]:not(.icon)::after, .link[target="_blank"]:not(.icon)::after
+        font-size: 1rem
+        padding-bottom: 0.3rem

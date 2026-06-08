@@ -1,0 +1,62 @@
+
+header.hero
+    padding-bottom: 2rem
+    border-bottom: 2px solid black
+
+    .content
+        margin-top: 1.5rem
+        .hero-text
+            margin-top: 0
+            padding-top: 0
+        .hero-actions
+            margin-top: 0
+
+            .dropdown-share
+                left: 0
+
+.block-siblings-navigation
+    display: none
+
+.document-content .taxonomies-container
+    margin-top: 0
+    margin-bottom: 0
+    border-bottom: 1px dashed black
+
+.document-content .taxonomies-container .taxonomies-single.pages-taxonomies, .document-content .taxonomies-container .taxonomies-single.projects-taxonomies
+    margin-bottom: 1rem
+
+.block
+    margin-top: 1.5rem
+    margin-bottom: 1.5rem
+
+.block.block-title:not(:first-child)
+    margin-top: 3rem
+
+.breadcrumb
+    margin-left: var(--grid-gutter-negative)
+    margin-right: var(--grid-gutter-negative)
+    padding-left: var(--grid-gutter)
+    padding-right: var(--grid-gutter)
+    border-bottom: 1px dashed black
+
+@include media-breakpoint-up(md)
+    body.projects__page
+        .block-image 
+            figure
+                img
+                    max-width: 500px
+
+    .projects__page
+        .block-embed
+            min-height: 600px
+            border: 2px dashed red
+            margin-right: 2rem
+            margin-left: 2rem
+
+            iframe
+                min-height: 600px
+
+@include media-breakpoint-down(lg)
+    .breadcrumb-nav:where(:not(.breadcrumb-nav--extendable))
+        margin-left: var(--grid-gutter)
+        margin-right: var(--grid-gutter)
