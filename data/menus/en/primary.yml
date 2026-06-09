@@ -17,6 +17,13 @@ items:
   new_tab: false
   children: []
   descendants_targets: []
+- title: CD/LP
+  slug: cd-lp
+  target: "/en/music/records/"
+  kind: url
+  new_tab: false
+  children: []
+  descendants_targets: []
 - title: Bio
   slug: bio
   target: "/en/bio/"
@@ -42,11 +49,11 @@ items:
   new_tab: true
   children: []
   descendants_targets: []
-- title: CD/LP
-  slug: cd-lp
-  target: "/en/music/records/"
+- title: Blog (FR)
+  slug: blog-fr
+  target: blog.drame.org
   kind: url
-  new_tab: false
+  new_tab: true
   children: []
   descendants_targets: []
 
