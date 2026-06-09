@@ -64,7 +64,7 @@ to = "/fr/actualites/2025-04-30-cd-pique-nique-au-labo-vol4-1/"
 
 [[redirects]]
 from = "/fr/musique/2025-catalogue-complet-3/index.html"
-to = "/fr/musique/1954-catalogue-complet-3/"
+to = "/fr/musique/2026-catalogue-complet-3/"
 
 [[redirects]]
 from = "/organisations/flying-puppets/index.html"
@@ -119,6 +119,10 @@ from = "/fr/categories/projets-et-collections-artistiques/index.html"
 to = "/fr/organisations/categories/projets-et-collections-artistiques/"
 
 [[redirects]]
+from = "/en/music/1954-complete-catalogue-3/index.html"
+to = "/en/music/2026-complete-catalogue-3/"
+
+[[redirects]]
 from = "/fr/sonia-cruchon/index.html"
 to = "/fr/equipe/sonia-cruchon/"
 
@@ -143,8 +147,16 @@ from = "/equipe/jean-jacques-palix/index.html"
 to = "/fr/equipe/jean-jacques-palix/"
 
 [[redirects]]
+from = "/fr/musique/1954-catalogue-complet-3/index.html"
+to = "/fr/musique/2026-catalogue-complet-3/"
+
+[[redirects]]
 from = "/en/editors/index.html"
 to = "/en/team/editors/"
+
+[[redirects]]
+from = "/en/music/2025-catalogue-2025/index.html"
+to = "/en/music/2026-catalogue-2025/"
 
 [[redirects]]
 from = "/organisations/les-inediteurs/index.html"
@@ -188,7 +200,7 @@ to = "/fr/organisations/creations-et-liberte/"
 
 [[redirects]]
 from = "/en/music/1954-catalogue-2025/index.html"
-to = "/en/music/2025-catalogue-2025/"
+to = "/en/music/2026-catalogue-2025/"
 
 [[redirects]]
 from = "/fr/presse/gallerie-photo/index.html"
@@ -223,6 +235,10 @@ from = "/fr/jean-jacques-birge/index.html"
 to = "/fr/equipe/jean-jacques-birge/"
 
 [[redirects]]
+from = "/en/music/1965-catalogue/index.html"
+to = "/en/music/2026-catalogue/"
+
+[[redirects]]
 from = "/mentions-legales/index.html"
 to = "/fr/mentions-legales/"
 
@@ -245,6 +261,10 @@ to = "/fr/organisations/categories/collectifs-et-groupes-amis/"
 [[redirects]]
 from = "/fr/jonathan-rosenbaum/index.html"
 to = "/fr/equipe/jonathan-rosenbaum/"
+
+[[redirects]]
+from = "/fr/musique/1965-catalogue/index.html"
+to = "/fr/musique/2026-catalogue/"
 
 [[redirects]]
 from = "/musique/titres-gratuits/index.html"
@@ -283,6 +303,10 @@ from = "/fr/francoise-romand/index.html"
 to = "/fr/equipe/francoise-romand/"
 
 [[redirects]]
+from = "/fr/musique/2025-catalogue-2025/index.html"
+to = "/fr/musique/2026-catalogue-2026/"
+
+[[redirects]]
 from = "/en/posts/2026-01-27-le-violon-dingue-de-fabiana-striffler/index.html"
 to = "/en/posts/2025-03-30-le-violon-dingue-de-fabiana-striffler/"
 
@@ -296,7 +320,7 @@ to = "/fr/equipe/sacha-gattino/"
 
 [[redirects]]
 from = "/en/music/2025-complete-catalogue-3/index.html"
-to = "/en/music/1954-complete-catalogue-3/"
+to = "/en/music/2026-complete-catalogue-3/"
 
 [[redirects]]
 from = "/accessibilite/index.html"
@@ -356,7 +380,7 @@ to = "/fr/musique/"
 
 [[redirects]]
 from = "/fr/musique/1954-catalogue-2025/index.html"
-to = "/fr/musique/2025-catalogue-2025/"
+to = "/fr/musique/2026-catalogue-2026/"
 
 [[redirects]]
 from = "/fr/actualites/2026-01-27-2-clips-pour-2-nouveauts/index.html"
