@@ -13,21 +13,17 @@ items:
 - title: Albums virtuels
   slug: albums-virtuels
   target: "/fr/musique/albums-virtuels/"
-  kind: page
+  kind: url
   new_tab: false
   children: []
   descendants_targets: []
-  path: "/pages/musique/albums-virtuels"
-  file: content/fr/pages/musique/albums-virtuels/_index.html
 - title: Disques
   slug: disques
-  target: "/fr/musique/disques/"
-  kind: page
+  target: https://www.jjbirge.osuny.site/fr/musique/disques/
+  kind: url
   new_tab: false
   children: []
   descendants_targets: []
-  path: "/pages/musique/disques"
-  file: content/fr/pages/musique/disques/_index.html
 - title: Presse
   slug: presse
   target: "/fr/presse/"

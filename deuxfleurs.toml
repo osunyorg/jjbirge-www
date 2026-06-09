@@ -147,10 +147,6 @@ from = "/en/editors/index.html"
 to = "/en/team/editors/"
 
 [[redirects]]
-from = "/fr/disques/index.html"
-to = "/fr/musique/disques/"
-
-[[redirects]]
 from = "/organisations/les-inediteurs/index.html"
 to = "/fr/organisations/les-inediteurs/"
 

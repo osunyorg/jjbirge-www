@@ -42,4 +42,11 @@ items:
   new_tab: true
   children: []
   descendants_targets: []
+- title: CD/LP
+  slug: cd-lp
+  target: "/en/music/records/"
+  kind: url
+  new_tab: false
+  children: []
+  descendants_targets: []
 
