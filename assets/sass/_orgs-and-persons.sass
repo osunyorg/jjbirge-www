@@ -1,12 +1,24 @@
 .organization .media--logo
     padding: 0
-    min-width: 10rem
+    min-width: 15rem
 
 .avatar
     border-radius: 0
 
 article.person .avatar
-    min-width: 10rem
+    min-width: 15rem !important
+
+.persons--grid
+    article.person
+        flex-direction: column
+        gap: 1rem
+
+        h3
+            a
+                font-weight: normal
+                font-size: var(--meta-size)
+                line-height: var(--meta-line-height)
+                text-align: left
 
 body.full-width .block-links--grid ul, body.full-width .block-links--cards ul, main > .blocks .block-links--grid ul, main > .blocks .block-links--cards ul, .contents-full-width .block-links--grid ul, .contents-full-width .block-links--cards ul
     grid-gap: 1rem
@@ -19,3 +31,23 @@ body.full-width .block-links--grid ul, body.full-width .block-links--cards ul, m
     a[target="_blank"]:not(.icon)::after, .link[target="_blank"]:not(.icon)::after
         font-size: 1rem
         padding-bottom: 0.3rem
+
+
+@include media-breakpoint-up(xs)
+    .persons--grid, .organizations--grid
+        grid-template-columns: repeat(2,1fr)
+
+    article.person .avatar, .organization .media--logo
+        min-width: 9rem !important
+
+@include media-breakpoint-up(md)
+    .persons--grid, .organizations--grid
+        grid-template-columns: repeat(3,1fr)
+
+@include media-breakpoint-up(xl)
+    .persons--grid, .organizations--grid
+        grid-template-columns: repeat(5,1fr)
+
+@include media-breakpoint-up(xxl)
+    .persons--grid, .organizations--grid
+        grid-template-columns: repeat(6,1fr)
