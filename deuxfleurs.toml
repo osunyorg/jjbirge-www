@@ -35,6 +35,10 @@ from = "/equipe/antoine-schmitt/index.html"
 to = "/fr/equipe/antoine-schmitt/"
 
 [[redirects]]
+from = "/fr/musique/1977-missions-de-radio/index.html"
+to = "/fr/musique/2025-missions-de-radio/"
+
+[[redirects]]
 from = "/equipe/elsa-birge/index.html"
 to = "/fr/equipe/elsa-birge/"
 
@@ -55,16 +59,32 @@ from = "/organisations/odeia/index.html"
 to = "/fr/organisations/odeia/"
 
 [[redirects]]
+from = "/fr/musique/1995-musique-applique/index.html"
+to = "/fr/musique/2007-musique-applique/"
+
+[[redirects]]
+from = "/fr/musique/1975-musique-applique-1/index.html"
+to = "/fr/musique/2013-musique-applique-1/"
+
+[[redirects]]
+from = "/en/music/1971-around-dfense-de/index.html"
+to = "/en/music/1974-around-dfense-de/"
+
+[[redirects]]
 from = "/fr/jean-jacques-palix/index.html"
 to = "/fr/equipe/jean-jacques-palix/"
+
+[[redirects]]
+from = "/fr/musique/1965-intimits/index.html"
+to = "/fr/musique/2024-intimits/"
 
 [[redirects]]
 from = "/fr/actualites/2026-01-27-cd-pique-nique-au-labo-vol4-1/index.html"
 to = "/fr/actualites/2025-04-30-cd-pique-nique-au-labo-vol4-1/"
 
 [[redirects]]
-from = "/fr/musique/2025-catalogue-complet-3/index.html"
-to = "/fr/musique/2026-catalogue-complet-3/"
+from = "/fr/musique/1971-around-dfense-de/index.html"
+to = "/fr/musique/1974-around-dfense-de/"
 
 [[redirects]]
 from = "/organisations/flying-puppets/index.html"
@@ -111,16 +131,16 @@ from = "/organisations/nabazmob/index.html"
 to = "/fr/organisations/nabazmob/"
 
 [[redirects]]
+from = "/en/music/1977-radio-shows/index.html"
+to = "/en/music/2025-radio-shows/"
+
+[[redirects]]
 from = "/fr/etienne-mineur/index.html"
 to = "/fr/equipe/etienne-mineur/"
 
 [[redirects]]
 from = "/fr/categories/projets-et-collections-artistiques/index.html"
 to = "/fr/organisations/categories/projets-et-collections-artistiques/"
-
-[[redirects]]
-from = "/en/music/1954-complete-catalogue-3/index.html"
-to = "/en/music/2026-complete-catalogue-3/"
 
 [[redirects]]
 from = "/fr/sonia-cruchon/index.html"
@@ -145,10 +165,6 @@ to = "/fr/equipe/nicolas-clauss/"
 [[redirects]]
 from = "/equipe/jean-jacques-palix/index.html"
 to = "/fr/equipe/jean-jacques-palix/"
-
-[[redirects]]
-from = "/fr/musique/1954-catalogue-complet-3/index.html"
-to = "/fr/musique/2026-catalogue-complet-3/"
 
 [[redirects]]
 from = "/en/editors/index.html"
@@ -225,6 +241,10 @@ to = "/fr/organisations/volumique/"
 [[redirects]]
 from = "/fr/organisations/flying-puppets/index.html"
 to = "/fr/organisations/flyingpuppet/"
+
+[[redirects]]
+from = "/en/music/1965-intimacy/index.html"
+to = "/en/music/2024-intimacy/"
 
 [[redirects]]
 from = "/fr/elsa-birge/index.html"
@@ -315,12 +335,12 @@ from = "/politique-de-confidentialite/index.html"
 to = "/fr/politique-de-confidentialite/"
 
 [[redirects]]
-from = "/equipe/sacha-gattino/index.html"
-to = "/fr/equipe/sacha-gattino/"
+from = "/en/music/1975-applied-music-1/index.html"
+to = "/en/music/2013-applied-music-1/"
 
 [[redirects]]
-from = "/en/music/2025-complete-catalogue-3/index.html"
-to = "/en/music/2026-complete-catalogue-3/"
+from = "/equipe/sacha-gattino/index.html"
+to = "/fr/equipe/sacha-gattino/"
 
 [[redirects]]
 from = "/accessibilite/index.html"
@@ -341,6 +361,10 @@ to = "/fr/equipe/nicolas-clauss/"
 [[redirects]]
 from = "/equipe/jonathan-rosenbaum/index.html"
 to = "/fr/equipe/jonathan-rosenbaum/"
+
+[[redirects]]
+from = "/en/music/1995-applied-music/index.html"
+to = "/en/music/2007-applied-music/"
 
 [[redirects]]
 from = "/en/projects/index.html"
