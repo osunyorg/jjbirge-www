@@ -59,6 +59,10 @@ from = "/organisations/odeia/index.html"
 to = "/fr/organisations/odeia/"
 
 [[redirects]]
+from = "/fr/musique/1995-musique-applique/index.html"
+to = "/fr/musique/2007-musique-applique/"
+
+[[redirects]]
 from = "/fr/musique/1975-musique-applique-1/index.html"
 to = "/fr/musique/2013-musique-applique-1/"
 
@@ -357,6 +361,10 @@ to = "/fr/equipe/nicolas-clauss/"
 [[redirects]]
 from = "/equipe/jonathan-rosenbaum/index.html"
 to = "/fr/equipe/jonathan-rosenbaum/"
+
+[[redirects]]
+from = "/en/music/1995-applied-music/index.html"
+to = "/en/music/2007-applied-music/"
 
 [[redirects]]
 from = "/en/projects/index.html"
