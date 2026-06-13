@@ -45,11 +45,15 @@ body.full-width .block-links--grid ul, body.full-width .block-links--cards ul, m
 @include media-breakpoint-up(sm)
     .persons--grid, .organizations--grid
         grid-template-columns: repeat(3,1fr)
+        gap: 1rem
 
 @include media-breakpoint-up(md)
     article.person
         flex-direction: column !important
         justify-content: flex-start
+
+    .contents-full-width .block-image figure img, body.full-width .block-image figure img, main > .blocks .block-image figure img
+        width: 100%
 
 @include media-breakpoint-up(xl)
     .persons--grid, .organizations--grid
