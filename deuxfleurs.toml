@@ -31,6 +31,14 @@ from = "/fr/spatsonore/index.html"
 to = "/fr/organisations/spatsonore/"
 
 [[redirects]]
+from = "/en/music/1978-live-shows/index.html"
+to = "/en/music/1998-live-shows/"
+
+[[redirects]]
+from = "/fr/musique/1978-cin-concerts/index.html"
+to = "/fr/musique/1990-cin-concerts/"
+
+[[redirects]]
 from = "/equipe/antoine-schmitt/index.html"
 to = "/fr/equipe/antoine-schmitt/"
 
@@ -95,8 +103,16 @@ from = "/en/music/2025-radio-shows/index.html"
 to = "/en/music/2026-radio-shows/"
 
 [[redirects]]
+from = "/en/music/1981-collective-albums/index.html"
+to = "/en/music/2021-collective-albums/"
+
+[[redirects]]
 from = "/organisations/flying-puppets/index.html"
 to = "/fr/organisations/flyingpuppet/"
+
+[[redirects]]
+from = "/en/music/1978-other-unissued/index.html"
+to = "/en/music/2023-other-unissued/"
 
 [[redirects]]
 from = "/equipe/equipe-editoriale/index.html"
@@ -135,6 +151,10 @@ from = "/fr/les-allumes-du-jazz/index.html"
 to = "/fr/organisations/les-allumes-du-jazz/"
 
 [[redirects]]
+from = "/fr/musique/1981-compilations/index.html"
+to = "/fr/musique/2021-compilations/"
+
+[[redirects]]
 from = "/en/posts/2026-01-27-cd-pique-nique-au-labo-vol4-1/index.html"
 to = "/en/posts/2025-04-30-cd-pique-nique-au-labo-vol4-1/"
 
@@ -157,6 +177,10 @@ to = "/fr/equipe/etienne-mineur/"
 [[redirects]]
 from = "/fr/categories/projets-et-collections-artistiques/index.html"
 to = "/fr/organisations/categories/projets-et-collections-artistiques/"
+
+[[redirects]]
+from = "/en/music/1983-images-of-the-drame/index.html"
+to = "/en/music/2014-images-of-the-drame/"
 
 [[redirects]]
 from = "/fr/sonia-cruchon/index.html"
@@ -205,6 +229,10 @@ to = "/fr/organisations/creations-et-liberte/"
 [[redirects]]
 from = "/fr/volumique/index.html"
 to = "/fr/organisations/volumique/"
+
+[[redirects]]
+from = "/en/music/1978-music-for-silent-movies/index.html"
+to = "/en/music/1990-music-for-silent-movies/"
 
 [[redirects]]
 from = "/bio/index.html"
@@ -387,6 +415,10 @@ from = "/fr/nicolas-clauss/index.html"
 to = "/fr/equipe/nicolas-clauss/"
 
 [[redirects]]
+from = "/fr/musique/1978-autres-indits/index.html"
+to = "/fr/musique/2023-autres-indits/"
+
+[[redirects]]
 from = "/equipe/jonathan-rosenbaum/index.html"
 to = "/fr/equipe/jonathan-rosenbaum/"
 
@@ -417,6 +449,14 @@ to = "/fr/presse/"
 [[redirects]]
 from = "/fr/poptronics/index.html"
 to = "/fr/organisations/poptronics/"
+
+[[redirects]]
+from = "/fr/musique/1978-spectacles/index.html"
+to = "/fr/musique/1998-spectacles/"
+
+[[redirects]]
+from = "/fr/musique/1983-les-images-du-drame/index.html"
+to = "/fr/musique/2014-les-images-du-drame/"
 
 [[redirects]]
 from = "/organisations/poptronics/index.html"
