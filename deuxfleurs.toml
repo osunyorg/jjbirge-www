@@ -36,7 +36,7 @@ to = "/fr/equipe/antoine-schmitt/"
 
 [[redirects]]
 from = "/fr/musique/1977-missions-de-radio/index.html"
-to = "/fr/musique/2025-missions-de-radio/"
+to = "/fr/musique/2026-missions-de-radio/"
 
 [[redirects]]
 from = "/equipe/elsa-birge/index.html"
@@ -87,6 +87,14 @@ from = "/fr/musique/1971-around-dfense-de/index.html"
 to = "/fr/musique/1974-around-dfense-de/"
 
 [[redirects]]
+from = "/fr/musique/2025-missions-de-radio/index.html"
+to = "/fr/musique/2026-missions-de-radio/"
+
+[[redirects]]
+from = "/en/music/2025-radio-shows/index.html"
+to = "/en/music/2026-radio-shows/"
+
+[[redirects]]
 from = "/organisations/flying-puppets/index.html"
 to = "/fr/organisations/flyingpuppet/"
 
@@ -119,6 +127,10 @@ from = "/organisations/souffle-continu/index.html"
 to = "/fr/organisations/souffle-continu/"
 
 [[redirects]]
+from = "/en/music/2022-films-bywith-jjb/index.html"
+to = "/en/music/2026-films-bywith-jjb/"
+
+[[redirects]]
 from = "/fr/les-allumes-du-jazz/index.html"
 to = "/fr/organisations/les-allumes-du-jazz/"
 
@@ -131,8 +143,12 @@ from = "/organisations/nabazmob/index.html"
 to = "/fr/organisations/nabazmob/"
 
 [[redirects]]
+from = "/en/music/2026-catalogue-2025/index.html"
+to = "/en/music/2026-catalogue-2026/"
+
+[[redirects]]
 from = "/en/music/1977-radio-shows/index.html"
-to = "/en/music/2025-radio-shows/"
+to = "/en/music/2026-radio-shows/"
 
 [[redirects]]
 from = "/fr/etienne-mineur/index.html"
@@ -172,7 +188,7 @@ to = "/en/team/editors/"
 
 [[redirects]]
 from = "/en/music/2025-catalogue-2025/index.html"
-to = "/en/music/2026-catalogue-2025/"
+to = "/en/music/2026-catalogue-2026/"
 
 [[redirects]]
 from = "/organisations/les-inediteurs/index.html"
@@ -216,7 +232,7 @@ to = "/fr/organisations/creations-et-liberte/"
 
 [[redirects]]
 from = "/en/music/1954-catalogue-2025/index.html"
-to = "/en/music/2026-catalogue-2025/"
+to = "/en/music/2026-catalogue-2026/"
 
 [[redirects]]
 from = "/fr/presse/gallerie-photo/index.html"
@@ -267,6 +283,10 @@ from = "/fr/les-alumes-du-jazz/index.html"
 to = "/fr/organisations/les-allumes-du-jazz/"
 
 [[redirects]]
+from = "/fr/musique/2022-films-deavec-jjb/index.html"
+to = "/fr/musique/2026-films-deavec-jjb/"
+
+[[redirects]]
 from = "/fr/les-inediteurs/index.html"
 to = "/fr/organisations/les-inediteurs/"
 
@@ -279,12 +299,20 @@ from = "/fr/categories/collectifs-et-groupes-amis/index.html"
 to = "/fr/organisations/categories/collectifs-et-groupes-amis/"
 
 [[redirects]]
+from = "/en/music/1975-films-bywith-jjb/index.html"
+to = "/en/music/2026-films-bywith-jjb/"
+
+[[redirects]]
 from = "/fr/jonathan-rosenbaum/index.html"
 to = "/fr/equipe/jonathan-rosenbaum/"
 
 [[redirects]]
 from = "/fr/musique/1965-catalogue/index.html"
 to = "/fr/musique/2026-catalogue/"
+
+[[redirects]]
+from = "/fr/musique/1975-films-deavec-jjb/index.html"
+to = "/fr/musique/2026-films-deavec-jjb/"
 
 [[redirects]]
 from = "/musique/titres-gratuits/index.html"
