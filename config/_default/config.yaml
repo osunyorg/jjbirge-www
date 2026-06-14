@@ -8,3 +8,9 @@ params:
   logo:
     header: '/assets/images/logo.gif'
     footer: '/assets/images/logo.gif'
+organizations:
+  single:
+    backlinks: true
+people:
+  single:
+    backlinks: true
