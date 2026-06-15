@@ -8,16 +8,24 @@ main
         background: white
         margin: 0
 
-.page__home .hero
-    .content 
-        padding-top: 0
-        
-        hgroup.has-lead 
-            display: flex
-            gap: var(--spacing-5)
-        
-            > p
-                font-size: var(--meta-size)
+.page__home 
+    .hero
+        .content 
+            padding-top: 0
+            
+            hgroup.has-lead 
+                display: flex
+                gap: var(--spacing-5)
+            
+                > p
+                    font-size: var(--meta-size)
+
+.block
+    margin-top: 1.5rem
+    margin-bottom: 1.5rem
+
+.block.block-title:not(:first-child)
+    margin-top: 3rem
 
 .page__home .blocks .block:first-of-type .rich-text p
     font-size: var(--small-size)
@@ -33,7 +41,17 @@ main
     margin-bottom: 0
     padding-bottom: 1.5rem
 
+.block-class-link-photo
+    margin-top: -1.5rem
+
+
 @include media-breakpoint-up(desktop)
+
+    .page__home
+        .block-call_to_action
+            .block-content
+                padding: 3rem var(--grid-gutter) !important
+
 
     .page__home .blocks
         display: grid
@@ -55,4 +73,6 @@ main
 @include media-breakpoint-up(md)
     .projects--grid
         grid-template-columns: repeat(3, 1fr)
+
+    
             
