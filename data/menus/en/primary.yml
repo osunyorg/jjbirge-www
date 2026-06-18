@@ -12,7 +12,7 @@ items:
   file: content/en/posts/_index.html
 - title: Digital albums
   slug: digital-albums
-  target: "/en/music/records"
+  target: "/en/music/free-mp3/"
   kind: url
   new_tab: false
   children: []
