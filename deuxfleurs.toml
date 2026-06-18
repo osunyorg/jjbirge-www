@@ -411,6 +411,10 @@ from = "/organisations/citizen-jazz/index.html"
 to = "/fr/organisations/citizen-jazz/"
 
 [[redirects]]
+from = "/en/remerciements/index.html"
+to = "/en/acknowledgements/"
+
+[[redirects]]
 from = "/equipe/etienne-mineur/index.html"
 to = "/fr/equipe/etienne-mineur/"
 
@@ -451,6 +455,10 @@ from = "/presse/index.html"
 to = "/fr/presse/"
 
 [[redirects]]
+from = "/en/presse/media-articles-about-the-albums/index.html"
+to = "/en/press/about-albums/"
+
+[[redirects]]
 from = "/fr/poptronics/index.html"
 to = "/fr/organisations/poptronics/"
 
@@ -485,6 +493,14 @@ to = "/fr/actualites/2025-05-30-2-clips-pour-2-nouveauts/"
 [[redirects]]
 from = "/plan-du-site/index.html"
 to = "/fr/plan-du-site/"
+
+[[redirects]]
+from = "/fr/presse/la-presse-parle-des-albums/index.html"
+to = "/fr/presse/sur-chaque-albums/"
+
+[[redirects]]
+from = "/en/press/media-articles-about-the-albums/index.html"
+to = "/en/press/about-albums/"
 
 [[redirects]]
 from = "/fr/franpi/index.html"
