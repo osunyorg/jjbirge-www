@@ -1,8 +1,8 @@
 ---
 title: Informations légales
 items:
-- title: Remerciements
-  slug: remerciements
+- title: Acknowledgements
+  slug: acknowledgements
   target: "/en/acknowledgements/"
   kind: page
   new_tab: false
