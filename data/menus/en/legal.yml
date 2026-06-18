@@ -3,13 +3,13 @@ title: Informations légales
 items:
 - title: Remerciements
   slug: remerciements
-  target: "/en/remerciements/"
+  target: "/en/acknowledgements/"
   kind: page
   new_tab: false
   children: []
   descendants_targets: []
-  path: "/pages/remerciements"
-  file: content/en/pages/remerciements/_index.html
+  path: "/pages/acknowledgements"
+  file: content/en/pages/acknowledgements/_index.html
 - title: Legal terms
   slug: legal-terms
   target: "/en/legal-terms/"
