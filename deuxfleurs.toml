@@ -67,6 +67,10 @@ from = "/organisations/odeia/index.html"
 to = "/fr/organisations/odeia/"
 
 [[redirects]]
+from = "/en/presse/index.html"
+to = "/en/press/"
+
+[[redirects]]
 from = "/fr/musique/1995-musique-applique/index.html"
 to = "/fr/musique/2007-musique-applique/"
 
