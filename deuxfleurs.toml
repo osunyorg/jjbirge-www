@@ -71,6 +71,10 @@ from = "/en/presse/index.html"
 to = "/en/press/"
 
 [[redirects]]
+from = "/en/music/free-mp3/index.html"
+to = "/en/music/digital-albums/"
+
+[[redirects]]
 from = "/fr/musique/1995-musique-applique/index.html"
 to = "/fr/musique/2007-musique-applique/"
 
@@ -132,7 +136,7 @@ to = "/fr/organisations/les-allumes-du-jazz/"
 
 [[redirects]]
 from = "/en/music/records/free-mp3/index.html"
-to = "/en/music/free-mp3/"
+to = "/en/music/digital-albums/"
 
 [[redirects]]
 from = "/fr/musique/albums/index.html"
@@ -252,7 +256,7 @@ to = "/fr/musique/albums-virtuels/"
 
 [[redirects]]
 from = "/en/music/titres-gratuits/index.html"
-to = "/en/music/free-mp3/"
+to = "/en/music/digital-albums/"
 
 [[redirects]]
 from = "/fr/flying-puppets/index.html"
