@@ -19,7 +19,7 @@ items:
   descendants_targets: []
 - title: Disques
   slug: disques
-  target: https://www.jjbirge.osuny.site/fr/musique/disques/
+  target: "/fr/musique/disques/"
   kind: url
   new_tab: false
   children: []
