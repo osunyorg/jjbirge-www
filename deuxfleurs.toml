@@ -31,6 +31,10 @@ from = "/fr/spatsonore/index.html"
 to = "/fr/organisations/spatsonore/"
 
 [[redirects]]
+from = "/blog/index.html"
+to = "https://blog.drame.org/"
+
+[[redirects]]
 from = "/en/music/1978-live-shows/index.html"
 to = "/en/music/1998-live-shows/"
 
