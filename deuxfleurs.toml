@@ -55,6 +55,10 @@ from = "/actualites/index.html"
 to = "/fr/actualites/"
 
 [[redirects]]
+from = "/blog/index.html"
+to = "https://blog.drame.org/"
+
+[[redirects]]
 from = "/organisations/categories/collectifs-et-groupes-amis/index.html"
 to = "/fr/organisations/categories/collectifs-et-groupes-amis/"
 
