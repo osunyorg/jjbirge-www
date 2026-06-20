@@ -63,6 +63,10 @@ from = "/organisations/categories/collectifs-et-groupes-amis/index.html"
 to = "/fr/organisations/categories/collectifs-et-groupes-amis/"
 
 [[redirects]]
+from = "/2/index.html"
+to = "http://archives.drame.org/2/"
+
+[[redirects]]
 from = "/musique/albums/index.html"
 to = "/fr/musique/disques/"
 
@@ -177,6 +181,10 @@ to = "/fr/organisations/nabazmob/"
 [[redirects]]
 from = "/en/music/2026-catalogue-2025/index.html"
 to = "/en/music/2026-catalogue-2026/"
+
+[[redirects]]
+from = "/1/index.html"
+to = "http://archives.drame.org/1/"
 
 [[redirects]]
 from = "/en/music/1977-radio-shows/index.html"
