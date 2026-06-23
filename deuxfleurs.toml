@@ -347,6 +347,10 @@ from = "/fr/categories/collectifs-et-groupes-amis/index.html"
 to = "/fr/organisations/categories/collectifs-et-groupes-amis/"
 
 [[redirects]]
+from = "/fr/musique/2012-mehrt-licht-remasteris-1/index.html"
+to = "/fr/musique/2012-mehr-licht-remasteris-1/"
+
+[[redirects]]
 from = "/en/music/1975-films-bywith-jjb/index.html"
 to = "/en/music/2026-films-bywith-jjb/"
 
