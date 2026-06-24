@@ -83,6 +83,10 @@ from = "/en/music/free-mp3/index.html"
 to = "/en/music/digital-albums/"
 
 [[redirects]]
+from = "/fr/musique/1975--/index.html"
+to = "/fr/musique/1975-plus-plus/"
+
+[[redirects]]
 from = "/fr/musique/1995-musique-applique/index.html"
 to = "/fr/musique/2007-musique-applique/"
 
