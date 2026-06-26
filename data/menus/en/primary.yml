@@ -10,8 +10,8 @@ items:
   descendants_targets: []
   path: "/posts"
   file: content/en/posts/_index.html
-- title: Digital albums
-  slug: digital-albums
+- title: Online albums
+  slug: online-albums
   target: "/en/music/digital-albums/"
   kind: url
   new_tab: false
