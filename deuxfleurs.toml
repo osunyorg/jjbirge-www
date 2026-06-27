@@ -80,7 +80,7 @@ to = "/en/press/"
 
 [[redirects]]
 from = "/en/music/free-mp3/index.html"
-to = "/en/music/digital-albums/"
+to = "/en/music/online-albums/"
 
 [[redirects]]
 from = "/fr/musique/1975--/index.html"
@@ -148,7 +148,7 @@ to = "/fr/organisations/les-allumes-du-jazz/"
 
 [[redirects]]
 from = "/en/music/records/free-mp3/index.html"
-to = "/en/music/digital-albums/"
+to = "/en/music/online-albums/"
 
 [[redirects]]
 from = "/fr/musique/albums/index.html"
@@ -276,7 +276,7 @@ to = "/fr/musique/albums-virtuels/"
 
 [[redirects]]
 from = "/en/music/titres-gratuits/index.html"
-to = "/en/music/digital-albums/"
+to = "/en/music/online-albums/"
 
 [[redirects]]
 from = "/fr/flying-puppets/index.html"
@@ -317,6 +317,10 @@ to = "/fr/organisations/flyingpuppet/"
 [[redirects]]
 from = "/en/music/1965-intimacy/index.html"
 to = "/en/music/2024-intimacy/"
+
+[[redirects]]
+from = "/en/music/digital-albums/index.html"
+to = "/en/music/online-albums/"
 
 [[redirects]]
 from = "/fr/elsa-birge/index.html"
