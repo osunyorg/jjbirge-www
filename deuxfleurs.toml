@@ -239,6 +239,10 @@ from = "/en/music/2025-catalogue-2025/index.html"
 to = "/en/music/2026-catalogue-2026/"
 
 [[redirects]]
+from = "/en/press/photo-gallery/index.html"
+to = "/en/bio/photo-gallery/"
+
+[[redirects]]
 from = "/organisations/les-inediteurs/index.html"
 to = "/fr/organisations/les-inediteurs/"
 
@@ -288,7 +292,7 @@ to = "/en/music/2026-catalogue-2026/"
 
 [[redirects]]
 from = "/fr/presse/gallerie-photo/index.html"
-to = "/fr/presse/galerie-photo/"
+to = "/fr/bio/galerie-photo/"
 
 [[redirects]]
 from = "/fr/souffle-continu/index.html"
@@ -385,6 +389,10 @@ to = "/fr/musique/albums-virtuels/"
 [[redirects]]
 from = "/en/projects/disques/index.html"
 to = "/en/music/records/"
+
+[[redirects]]
+from = "/fr/presse/galerie-photo/index.html"
+to = "/fr/bio/galerie-photo/"
 
 [[redirects]]
 from = "/fr/categories/ami-e-s/index.html"
