@@ -51,7 +51,7 @@ items:
   descendants_targets: []
 - title: Blog (FR)
   slug: blog-fr
-  target: blog.drame.org
+  target: https://blog.drame.org/
   kind: url
   new_tab: true
   children: []

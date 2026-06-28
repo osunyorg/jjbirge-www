@@ -1,8 +1,8 @@
 ---
 title: Informations légales
 items:
-- title: Acknowledgements
-  slug: acknowledgements
+- title: With a big help from my friends
+  slug: with-a-big-help-from-my-friends
   target: "/en/acknowledgements/"
   kind: page
   new_tab: false
