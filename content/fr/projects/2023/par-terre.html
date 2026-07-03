@@ -16,7 +16,7 @@ meta:
     slug: "par-terre"
   dates:
     created_at: 2026-01-26T01:19:54+01:00
-    updated_at: 2026-06-29T15:18:03+02:00
+    updated_at: 2026-07-03T11:41:31+02:00
     published_at: 2026-01-26T01:19:54+01:00
 search:
   id: "78877b5e-686c-43ef-b37a-2164a870fb71"
@@ -177,7 +177,7 @@ contents:
 
 
   - kind: block
-    template: image
+    template: gallery
 
 
     ranks:
@@ -187,27 +187,55 @@ contents:
 
     data:
 
-      image:
-        id: "01243b59-0473-4d5a-a603-c09339cec37b"
+      layout: grid
+      images:
+        - 
+          id: "fb677f1a-a71a-4b83-a314-1401bfe741d7"
+          image:
+            id: "fb677f1a-a71a-4b83-a314-1401bfe741d7"
+
+
+
+        - 
+          id: "61e15545-17b6-47ed-84d9-05d41b2286b1"
+          image:
+            id: "61e15545-17b6-47ed-84d9-05d41b2286b1"
+
 
 
 
 
   - kind: block
-    template: image
+    template: persons
 
 
     ranks:
       base: 2
+      children: 2
     top:
       active: false
 
     data:
 
-      image:
-        id: "7cb70348-fd00-4119-8dee-576e34d8afff"
+      layout: grid
+      options:
+        image: true
+        summary: true
+        link: true
+        contact: false
 
+      persons:
+        - permalink: "/fr/equipe/jean-jacques-birge/"
+          path: "/persons/jean-jacques-birge"
+          slug: "jean-jacques-birge"
+          file: "content/fr/persons/jean-jacques-birge.html"
 
+        - permalink: "/fr/equipe/matthieu-donarier/"
+          path: "/persons/matthieu-donarier"
+          slug: "matthieu-donarier"
+          file: "content/fr/persons/matthieu-donarier.html"
+
+      quantity: 2
 
 
 
