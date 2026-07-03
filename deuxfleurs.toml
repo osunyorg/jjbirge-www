@@ -155,6 +155,10 @@ from = "/fr/musique/albums/index.html"
 to = "/fr/musique/disques/"
 
 [[redirects]]
+from = "/2/*"
+to = "http://archives.drame.org/2/*"
+
+[[redirects]]
 from = "/musique/index.html"
 to = "/fr/musique/"
 
@@ -329,6 +333,10 @@ to = "/fr/equipe/elsa-birge/"
 [[redirects]]
 from = "/fr/musique/1980-fluxus-/index.html"
 to = "/fr/musique/1984-fluxus-/"
+
+[[redirects]]
+from = "/blog/*"
+to = "http://archives.drame.org/blog/*"
 
 [[redirects]]
 from = "/fr/jean-jacques-birge/index.html"
