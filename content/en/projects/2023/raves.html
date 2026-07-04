@@ -16,7 +16,7 @@ meta:
     slug: "raves"
   dates:
     created_at: 2026-01-26T01:19:52+01:00
-    updated_at: 2026-06-29T15:19:39+02:00
+    updated_at: 2026-07-04T23:24:43+02:00
     published_at: 2026-01-26T01:19:52+01:00
 search:
   id: "553ca219-750e-4a3d-88fa-9fe414aa67da"
@@ -187,7 +187,7 @@ contents:
 
 
   - kind: block
-    template: image
+    template: gallery
 
 
     ranks:
@@ -197,27 +197,55 @@ contents:
 
     data:
 
-      image:
-        id: "c62e714e-e152-47c6-a584-4bd85b92fe66"
+      layout: grid
+      images:
+        - 
+          id: "42d7dee9-4794-4be2-a765-2a80a0aa577e"
+          image:
+            id: "42d7dee9-4794-4be2-a765-2a80a0aa577e"
+
+
+
+        - 
+          id: "fb4301ab-14a7-46a8-8b10-299252f5c3b1"
+          image:
+            id: "fb4301ab-14a7-46a8-8b10-299252f5c3b1"
+
 
 
 
 
   - kind: block
-    template: image
+    template: persons
 
 
     ranks:
       base: 2
+      children: 2
     top:
       active: false
 
     data:
 
-      image:
-        id: "6cc89427-a94f-4988-9623-51608c9a8fe1"
+      layout: grid
+      options:
+        image: true
+        summary: true
+        link: true
+        contact: false
 
+      persons:
+        - permalink: "/en/team/jean-jacques-birge/"
+          path: "/persons/jean-jacques-birge"
+          slug: "jean-jacques-birge"
+          file: "content/en/persons/jean-jacques-birge.html"
 
+        - permalink: "/en/team/fanny-meteier/"
+          path: "/persons/fanny-meteier"
+          slug: "fanny-meteier"
+          file: "content/en/persons/fanny-meteier.html"
+
+      quantity: 2
 
 
 
