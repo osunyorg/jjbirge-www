@@ -167,10 +167,6 @@ from = "/organisations/souffle-continu/index.html"
 to = "/fr/organisations/souffle-continu/"
 
 [[redirects]]
-from = "/en/music/2022-films-bywith-jjb/index.html"
-to = "/en/music/2026-films-bywith-jjb/"
-
-[[redirects]]
 from = "/fr/les-allumes-du-jazz/index.html"
 to = "/fr/organisations/les-allumes-du-jazz/"
 
@@ -355,10 +351,6 @@ from = "/fr/les-alumes-du-jazz/index.html"
 to = "/fr/organisations/les-allumes-du-jazz/"
 
 [[redirects]]
-from = "/fr/musique/2022-films-deavec-jjb/index.html"
-to = "/fr/musique/2026-films-deavec-jjb/"
-
-[[redirects]]
 from = "/fr/les-inediteurs/index.html"
 to = "/fr/organisations/les-inediteurs/"
 
@@ -379,20 +371,12 @@ from = "/en/music/1980-fluxus-/index.html"
 to = "/en/music/1984-fluxus-/"
 
 [[redirects]]
-from = "/en/music/1975-films-bywith-jjb/index.html"
-to = "/en/music/2026-films-bywith-jjb/"
-
-[[redirects]]
 from = "/fr/jonathan-rosenbaum/index.html"
 to = "/fr/equipe/jonathan-rosenbaum/"
 
 [[redirects]]
 from = "/fr/musique/1965-catalogue/index.html"
 to = "/fr/musique/2026-catalogue/"
-
-[[redirects]]
-from = "/fr/musique/1975-films-deavec-jjb/index.html"
-to = "/fr/musique/2026-films-deavec-jjb/"
 
 [[redirects]]
 from = "/musique/titres-gratuits/index.html"
