@@ -44,11 +44,6 @@ jobs:
     - name: ajout des hôtes connus pour SSH
       run: ssh-keyscan -p ${{ secrets.SSH_PORT }} -H ${{ secrets.SSH_HOST }} >> ~/.ssh/known_hosts
     
-    - name: Debug clé publique utilisée
-      run: ssh-keygen -y -f ~/.ssh/id_rsa
-    - name: Test connexion SSH verbeux
-      run: ssh -vvv -p ${{ secrets.SSH_PORT }} ${{ secrets.SSH_USER }}@${{ secrets.SSH_HOST }} "echo connected" || true
-    
     - name: Déploiement avec rsync
       run: rsync -avz --delete -e "ssh -p ${{ secrets.SSH_PORT }}" ./public/ ${{ secrets.SSH_USER }}@${{ secrets.SSH_HOST }}:${{ secrets.SSH_WORKDIR }}/
 
